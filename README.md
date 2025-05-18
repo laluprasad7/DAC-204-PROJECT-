@@ -12,7 +12,7 @@ Environment: Python 3.11, PyTorch, segmentation_models_pytorch, CUDA support.
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/breast-ultrasound-segmentation.git
+git clone [link](https://github.com/laluprasad7/DAC-204-PROJECT-/blob/main/README.md)
 cd breast-ultrasound-segmentation
 
 
